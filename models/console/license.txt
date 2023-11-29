@@ -1,0 +1,8 @@
+Model Information:
+* title:	PlayStation 5
+* source:	https://sketchfab.com/3d-models/playstation-5-54810f0b23a441ca93f44a8b06ec937b
+* author:	Virtual Studio (https://sketchfab.com/virtualstudio)
+
+Model License:
+* license type:	SKETCHFAB Editorial (https://sketchfab.com/licenses)
+* requirements:	Use only in connection with events that are newsworthy or of public interest
